@@ -28,30 +28,6 @@ El proyecto sirve como demostración de habilidades técnicas con Django orienta
 
 ---
 
-##  Arquitectura y estructura del proyecto  
-La aplicación se estructura en varias apps Django para separar responsabilidades, facilitando escalabilidad, mantenimiento y claridad de código.
-
-enterprise-playground/
-│
-├── profiles/ # App para perfiles de empleados
-├── messaging/ # App para sistema de mensajería interna
-├── employees/ # App para manejo de empleados / usuarios
-├── tasks/ # App para tareas y operaciones de empresa
-├── core/ # Funcionalidad común, mixins, formularios base
-├── enterprise_project/ # Proyecto Django: settings.py, urls.py, wsgi.py
-│
-├── manage.py
-├── requirements.txt
-├── README.md
-└── etc.
-
-yaml
-Copiar código
-
-Cada app contiene: modelos (`models.py`), vistas basadas en clases (`views.py`), formularios (`forms.py`), urls (`urls.py`), templates (`templates/app_name/`).
-
----
-
 ##  Tecnologías utilizadas  
 | Área             | Tecnología                                               |
 |------------------|----------------------------------------------------------|
