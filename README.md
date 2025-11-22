@@ -123,6 +123,57 @@ Interfaz Pública del Sitio Web
 
 
 
+## Capturas del Proyecto
+
+A continuación se muestran capturas del panel de administración y de la interfaz pública de la plataforma.  
+Estas imágenes permiten visualizar la experiencia real de uso tanto para empleados como para administradores.
+
+---
+
+# Panel de Administración (Django Admin)
+
+### ▶ Dashboard principal del administrador
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### ▶ Gestión de empleados / usuarios
+![Admin Users](screenshots/admin-users.png)
+
+### ▶ Gestión de perfiles de empleados
+![Admin Profiles](screenshots/admin-profiles.png)
+
+### ▶ Gestión de tareas internas
+![Admin Tasks](screenshots/admin-tasks.png)
+
+### ▶ Sistema de mensajería interna desde el admin
+![Admin Messaging](screenshots/admin-messaging.png)
+
+---
+
+# Interfaz Pública del Sitio Web
+
+### ▶ Página de inicio
+![Home Page](screenshots/inicio.png)
+
+### ▶ Listado de empleados
+![Employees List](screenshots/employees-list.png)
+
+### ▶ Perfil público de un empleado
+![Profile Public](screenshots/employee-profile.png)
+
+### ▶ Mensajería interna (vista de usuario)
+![Messaging Page](screenshots/messaging-page.png)
+
+### ▶ Página de login / autenticación
+![Login Page](screenshots/login-page.png)
+
+### ▶ Página de registro 
+![Login Page](screenshots/register-page.png)
+
+---
+
+
+
+
 👤 Autor
 Nombre: Aiman Benslaiman
 
