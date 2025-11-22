@@ -106,25 +106,6 @@ Estas imágenes permiten visualizar la experiencia real de uso tanto para emplea
 
 ---
 
-# Panel de Administración (Django Admin)
-
-### ▶ Dashboard principal del administrador
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### ▶ Gestión de empleados / usuarios
-![Admin Users](screenshots/admin-users.png)
-
-### ▶ Gestión de perfiles de empleados
-![Admin Profiles](screenshots/admin-profiles.png)
-
-### ▶ Gestión de tareas internas
-![Admin Tasks](screenshots/admin-tasks.png)
-
-### ▶ Sistema de mensajería interna desde el admin
-![Admin Messaging](screenshots/admin-messaging.png)
-
----
-
 # Interfaz Pública del Sitio Web
 
 ### ▶ Página de inicio
